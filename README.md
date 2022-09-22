@@ -19,7 +19,15 @@
   <img alt="GitWebPage" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <a href="https://www.mysql.com">
   <img alt="MySQLpage" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  
+<a href="https://www.nginx.com">
+  <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
+<a href="https://jinja.palletsprojects.com/en/3.1.x/">
+  <img alt="Jinja" src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black">
+<a href="https://flask.palletsprojects.com/en/2.2.x/">
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+<a href="https://ubuntu.com">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+
 ## GitHub Stats &#128200;
   
   <div align="center">
