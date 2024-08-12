@@ -1,11 +1,9 @@
 ### Welcome to my profile 👋
 <hr>
 
-  Hello, my name is Axel Bouvier from Uruguay. I am studying software development at Holberton School.
-  
-  I started studying in January 2022 and will finish in November 2022.
-  
-  In addition to learning programming, last year I graduated as a Marketing Analyst at UDELAR.
+  Hi, I'm Axel Bouvier, a backend developer from Uruguay. I began my software development journey at Holberton School, where I studied from January to November 2022.   I'm currently pursuing a degree in IT Analysis at ORT University and working as a backend developer at Quantik.
+
+  In addition to my passion for programming, I also have a background in marketing. I graduated as a Marketing Analyst from the University of the Republic (UDELAR).
 
 
 ## Technologies and Tools &#128736;
